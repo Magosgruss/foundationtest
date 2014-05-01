@@ -48,8 +48,14 @@ body {
   font-style: normal;
   line-height: 1;
   position: relative;
+  width: 75%
   cursor: default; }
+  
 
+header {
+text-align: center;
+}
+  
 a:hover {
   cursor: pointer; }
 
@@ -144,13 +150,14 @@ select {
       .row .row.collapse:after {
         clear: both; }
 
+		
 .column,
 .columns {
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
   width: 100%;
   float: left; }
-
+  
 @media only screen {
   .small-push-0 {
     position: relative;
