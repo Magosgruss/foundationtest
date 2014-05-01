@@ -1,0 +1,49 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 2 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	deleted:    README.md
+#	deleted:    css/foundation.css
+#	deleted:    css/foundation.min.css
+#	deleted:    css/normalize.css
+#	deleted:    humans.txt
+#	deleted:    img/.gitkeep
+#	deleted:    img/examples/abstract.jpg
+#	deleted:    img/examples/sand.jpg
+#	deleted:    img/examples/water.jpg
+#	deleted:    index.bak.html
+#	deleted:    index.html
+#	deleted:    js/foundation.min.js
+#	deleted:    js/foundation/foundation.abide.js
+#	deleted:    js/foundation/foundation.accordion.js
+#	deleted:    js/foundation/foundation.alert.js
+#	deleted:    js/foundation/foundation.clearing.js
+#	deleted:    js/foundation/foundation.dropdown.js
+#	deleted:    js/foundation/foundation.equalizer.js
+#	deleted:    js/foundation/foundation.interchange.js
+#	deleted:    js/foundation/foundation.joyride.js
+#	deleted:    js/foundation/foundation.js
+#	deleted:    js/foundation/foundation.magellan.js
+#	deleted:    js/foundation/foundation.offcanvas.js
+#	deleted:    js/foundation/foundation.orbit.js
+#	deleted:    js/foundation/foundation.reveal.js
+#	deleted:    js/foundation/foundation.slider.js
+#	deleted:    js/foundation/foundation.tab.js
+#	deleted:    js/foundation/foundation.tooltip.js
+#	deleted:    js/foundation/foundation.topbar.js
+#	deleted:    js/vendor/fastclick.js
+#	deleted:    js/vendor/jquery.cookie.js
+#	deleted:    js/vendor/jquery.js
+#	deleted:    js/vendor/modernizr.js
+#	deleted:    js/vendor/placeholder.js
+#	deleted:    khv22owu.boi.txt~
+#	deleted:    ntmuykum.q5q.txt~
+#	deleted:    robots.txt
+#
+
