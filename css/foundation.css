@@ -39,7 +39,7 @@ body {
   font-size: 100%; }
 
 body {
-  background: white;
+  background: #FFFFFF;
   color: #222222;
   padding: 0;
   margin: 0;
@@ -48,12 +48,41 @@ body {
   font-style: normal;
   line-height: 1;
   position: relative;
-  width: 75%
   cursor: default; }
   
 
 header {
 text-align: center;
+}
+
+#footer-wrapper {
+height: 200px;
+background: #333333;
+width: 100%;
+clear: both;
+margin: 0 0 0;
+padding: 0;
+position: relative;
+}
+
+#social li{
+vertical-align: middle !important;
+}
+
+#facebook {
+list-style-image: url(../img/examples/facebook.png) !important;
+}
+
+#twitter {
+list-style-image: url(../img/examples/twitter.png) !important;
+}
+
+#linkedin {
+list-style-image: url(../img/examples/linkedin.png) !important;
+}
+
+#footer {
+margin-top: 20px;
 }
   
 a:hover {
@@ -1913,7 +1942,7 @@ meta.foundation-mq-topbar {
   border-color: #d8d8d8;
   margin-bottom: 1.25rem;
   padding: 1.25rem;
-  background: #f2f2f2; }
+  background: #FAEED6; }
   .panel > :first-child {
     margin-top: 0; }
   .panel > :last-child {
